@@ -1,8 +1,7 @@
 #normal print, end-'    '
-print("hi Joshua")
+print("Hi I am Joshua")
 #print with end
-print("hi Joshua")
-print("hi Joshua")
-#print with sep
-print("hi","I am Joshua","i am studying in 7th standard",sep=",")
-#print file name
+print("I study in St.Josephs Boys High School")
+print("I study in 7th grade")
+#print with seperator
+print("All the schools are closed because of a virus, named corona" ,sep=",")
