@@ -10,3 +10,7 @@ while allow_run:
     allow_run = input("do you want to continue press y \n") == 'y'
 
 print("Thank you for using this application")
+num1 = input('Enter first number: ')
+num2 = input('Enter second number: ')
+sum_ = float(num1) + float(num2)
+print('The sum of {0} and {1} is {2}'.format(num1, num2, sum_))
